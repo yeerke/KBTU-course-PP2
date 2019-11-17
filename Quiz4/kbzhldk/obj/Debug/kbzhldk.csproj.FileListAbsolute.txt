@@ -1,0 +1,10 @@
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\bin\Debug\kbzhldk.exe.config
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\bin\Debug\kbzhldk.exe
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\bin\Debug\kbzhldk.pdb
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\obj\Debug\kbzhldk.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\obj\Debug\kbzhldk.Form1.resources
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\obj\Debug\kbzhldk.Properties.Resources.resources
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\obj\Debug\kbzhldk.csproj.GenerateResource.cache
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\obj\Debug\kbzhldk.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\obj\Debug\kbzhldk.exe
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\kbzhldk\obj\Debug\kbzhldk.pdb

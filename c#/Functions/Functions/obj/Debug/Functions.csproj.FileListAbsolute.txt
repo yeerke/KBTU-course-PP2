@@ -1,0 +1,10 @@
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\obj\Debug\Functions.Form1.resources
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\obj\Debug\Functions.Properties.Resources.resources
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\obj\Debug\Functions.csproj.GenerateResource.cache
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Erkebulan\Desktop\c#\Functions\Functions\obj\Debug\Functions.pdb

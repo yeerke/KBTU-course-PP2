@@ -1,0 +1,10 @@
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\bin\Debug\FallingBal.exe.config
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\bin\Debug\FallingBal.exe
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\bin\Debug\FallingBal.pdb
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\obj\Debug\FallingBal.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\obj\Debug\FallingBal.Form1.resources
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\obj\Debug\FallingBal.Properties.Resources.resources
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\obj\Debug\FallingBal.csproj.GenerateResource.cache
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\obj\Debug\FallingBal.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\obj\Debug\FallingBal.exe
+C:\Users\Erkebulan\Desktop\c#\FallingBal\FallingBal\obj\Debug\FallingBal.pdb

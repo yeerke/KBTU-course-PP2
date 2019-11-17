@@ -1,0 +1,9 @@
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\bin\Debug\collapsingBall.exe.config
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\bin\Debug\collapsingBall.exe
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\bin\Debug\collapsingBall.pdb
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\obj\Debug\collapsingBall.Form1.resources
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\obj\Debug\collapsingBall.Properties.Resources.resources
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\obj\Debug\collapsingBall.csproj.GenerateResource.cache
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\obj\Debug\collapsingBall.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\obj\Debug\collapsingBall.exe
+C:\Users\Erkebulan\source\repos\collapsingBall\collapsingBall\obj\Debug\collapsingBall.pdb

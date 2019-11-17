@@ -1,0 +1,10 @@
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\bin\Debug\bitmap2.exe.config
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\bin\Debug\bitmap2.exe
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\bin\Debug\bitmap2.pdb
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\obj\Debug\bitmap2.csprojAssemblyReference.cache
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\obj\Debug\bitmap2.Form1.resources
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\obj\Debug\bitmap2.Properties.Resources.resources
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\obj\Debug\bitmap2.csproj.GenerateResource.cache
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\obj\Debug\bitmap2.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\obj\Debug\bitmap2.exe
+C:\Users\Erkebulan\source\Programming\c#\Paint\bitmap2\obj\Debug\bitmap2.pdb

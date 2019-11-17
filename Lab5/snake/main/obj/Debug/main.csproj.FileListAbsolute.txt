@@ -1,0 +1,7 @@
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\main\bin\Debug\main.exe.config
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\main\bin\Debug\main.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\main\bin\Debug\main.pdb
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\main\obj\Debug\main.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\main\obj\Debug\main.pdb

@@ -1,0 +1,6 @@
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\gun.cs\bin\Debug\gun.cs.exe.config
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\gun.cs\bin\Debug\gun.cs.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\gun.cs\bin\Debug\gun.cs.pdb
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\gun.cs\obj\Debug\gun.cs.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\gun.cs\obj\Debug\gun.cs.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\gun.cs\obj\Debug\gun.cs.pdb

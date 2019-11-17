@@ -1,0 +1,129 @@
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tetris
+{
+    public partial class Form1 : Form
+    {
+        int width = 50, height = 50;
+        Block block = new Block();
+        List<Block> blocks = new List<Block>();
+        public Form1()
+        {
+            InitializeComponent();
+            pictureBox2.BackColor = Color.Blue;
+            timer1.Start();
+            blocks.Add(block);
+        }
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            e.Graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighSpeed;
+            SolidBrush sb = new SolidBrush(Color.Blue);
+            for(int i = 0; i < blocks.Count; i++)
+            {
+                e.Graphics.FillRectangle(sb, blocks[i].x, blocks[i].y, width, height);
+            }
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            bool check = true;
+            if (e.KeyCode == Keys.A)
+            {
+                foreach (Block b in blocks)
+                {
+                    if ((blocks[blocks.Count - 1].x - 50 == b.x && blocks[blocks.Count - 1].y+50 == b.y)/*||(blocks[blocks.Count - 1].x - 50 == b.x && blocks[blocks.Count - 1].y + 50 == b.y)*/)
+                    {
+                        check = false;
+                        break;
+                    }
+                }
+                if(check) blocks[blocks.Count - 1].x -= 50;
+            }
+            else
+            {
+                if (e.KeyCode == Keys.D)
+                {
+                    foreach (Block b in blocks)
+                    {
+                        if ((blocks[blocks.Count - 1].x + 50 == b.x && blocks[blocks.Count - 1].y == b.y) || (blocks[blocks.Count - 1].x + 50 == b.x && blocks[blocks.Count - 1].y + 50 == b.y))
+                        {
+                            check = false;
+                            break;
+                        }
+                    }
+                    if (check) blocks[blocks.Count - 1].x += 50;
+                }
+            }
+        }
+        private void Timer1_Tick(object sender, EventArgs e)
+        {
+            if (blocks.Count > 2)
+            {
+                if (blocks[blocks.Count - 2].y <= 50)
+                {
+                    timer1.Stop();
+                    MessageBox.Show("Game Over!");
+                }
+            }
+            bool check = false;
+            int cnt = 0;
+            bool q = false;
+            for(int i = 0; i < blocks.Count; i++)
+            {
+                if(blocks[i].y > pictureBox1.Height - 70 && blocks[i].y < pictureBox1.Height-5)
+                {
+                        cnt++;
+                    
+                    if (cnt == 6)
+                    {
+                        foreach(Block b in blocks)
+                        {
+                            b.y += 50;
+                        }
+                        blocks[blocks.Count - 1].y += 15;
+                        q = true;
+                        break;
+                    }
+                }
+            }
+            if (!q)
+            {
+                for (int i = 0; i < blocks.Count; i++)
+                {
+                    if ((blocks[i].y - 50 == blocks[blocks.Count - 1].y && blocks[i].x == blocks[blocks.Count - 1].x))
+                    {
+                        block = new Block();
+                        blocks.Add(block);
+                        check = true;
+                        break;
+                    }
+                }
+                if (!check)
+                {
+                    if (blocks[blocks.Count - 1].y >= pictureBox1.Height - 50)
+                    {
+                        blocks[blocks.Count - 1].y -= 5;
+                        block = new Block();
+                        blocks.Add(block);
+                    }
+                    else
+                    {
+                        blocks[blocks.Count - 1].y += 5;
+                    }
+                }
+            }
+            Refresh();            
+        }
+    }
+}

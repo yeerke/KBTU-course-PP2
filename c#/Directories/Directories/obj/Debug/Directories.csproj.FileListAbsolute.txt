@@ -1,0 +1,7 @@
+C:\Users\Erkebulan\Desktop\c#\Directories\Directories\bin\Debug\Directories.exe.config
+C:\Users\Erkebulan\Desktop\c#\Directories\Directories\bin\Debug\Directories.exe
+C:\Users\Erkebulan\Desktop\c#\Directories\Directories\bin\Debug\Directories.pdb
+C:\Users\Erkebulan\Desktop\c#\Directories\Directories\obj\Debug\Directories.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\c#\Directories\Directories\obj\Debug\Directories.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\c#\Directories\Directories\obj\Debug\Directories.exe
+C:\Users\Erkebulan\Desktop\c#\Directories\Directories\obj\Debug\Directories.pdb

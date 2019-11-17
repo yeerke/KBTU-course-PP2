@@ -1,0 +1,10 @@
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\bin\Debug\smthing.exe.config
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\bin\Debug\smthing.exe
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\bin\Debug\smthing.pdb
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\obj\Debug\smthing.csprojAssemblyReference.cache
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\obj\Debug\smthing.Properties.Resources.resources
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\obj\Debug\smthing.csproj.GenerateResource.cache
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\obj\Debug\smthing.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\obj\Debug\smthing.exe
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\obj\Debug\smthing.pdb
+C:\Users\Erkebulan\source\Programming\pp2\smthing\smthing\obj\Debug\smthing.Form1.resources

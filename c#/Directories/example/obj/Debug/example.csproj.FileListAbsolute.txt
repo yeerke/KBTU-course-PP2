@@ -1,0 +1,6 @@
+C:\Users\Erkebulan\Desktop\c#\Directories\example\bin\Debug\example.exe.config
+C:\Users\Erkebulan\Desktop\c#\Directories\example\bin\Debug\example.exe
+C:\Users\Erkebulan\Desktop\c#\Directories\example\bin\Debug\example.pdb
+C:\Users\Erkebulan\Desktop\c#\Directories\example\obj\Debug\example.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\c#\Directories\example\obj\Debug\example.exe
+C:\Users\Erkebulan\Desktop\c#\Directories\example\obj\Debug\example.pdb

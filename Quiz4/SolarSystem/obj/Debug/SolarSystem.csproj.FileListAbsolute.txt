@@ -1,0 +1,10 @@
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\bin\Debug\SolarSystem.exe.config
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\obj\Debug\SolarSystem.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\obj\Debug\SolarSystem.Form1.resources
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\obj\Debug\SolarSystem.Properties.Resources.resources
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.cache
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\obj\Debug\SolarSystem.exe
+C:\Users\Erkebulan\Desktop\pp2\Quiz4\SolarSystem\obj\Debug\SolarSystem.pdb

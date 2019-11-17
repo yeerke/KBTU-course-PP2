@@ -1,0 +1,7 @@
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\TrafficLight.cs\bin\Debug\TrafficLight.cs.exe.config
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\TrafficLight.cs\bin\Debug\TrafficLight.cs.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\TrafficLight.cs\bin\Debug\TrafficLight.cs.pdb
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\TrafficLight.cs\obj\Debug\TrafficLight.cs.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\TrafficLight.cs\obj\Debug\TrafficLight.cs.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\TrafficLight.cs\obj\Debug\TrafficLight.cs.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\TrafficLight.cs\obj\Debug\TrafficLight.cs.pdb

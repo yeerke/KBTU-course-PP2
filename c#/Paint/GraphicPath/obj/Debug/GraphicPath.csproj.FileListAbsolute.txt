@@ -1,0 +1,10 @@
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\bin\Debug\GraphicPath.exe.config
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\bin\Debug\GraphicPath.exe
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\bin\Debug\GraphicPath.pdb
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\obj\Debug\GraphicPath.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\obj\Debug\GraphicPath.Form1.resources
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\obj\Debug\GraphicPath.Properties.Resources.resources
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\obj\Debug\GraphicPath.csproj.GenerateResource.cache
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\obj\Debug\GraphicPath.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\obj\Debug\GraphicPath.exe
+C:\Users\Erkebulan\Desktop\c#\Paint\GraphicPath\obj\Debug\GraphicPath.pdb

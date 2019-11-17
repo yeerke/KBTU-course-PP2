@@ -1,0 +1,14 @@
+C:\Users\Erkebulan\Desktop\c#\lab2\task1\bin\Debug\task1.exe.config
+C:\Users\Erkebulan\Desktop\c#\lab2\task1\bin\Debug\task1.exe
+C:\Users\Erkebulan\Desktop\c#\lab2\task1\bin\Debug\task1.pdb
+C:\Users\Erkebulan\Desktop\c#\lab2\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\c#\lab2\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\c#\lab2\task1\obj\Debug\task1.exe
+C:\Users\Erkebulan\Desktop\c#\lab2\task1\obj\Debug\task1.pdb
+C:\Users\Erkebulan\Desktop\pp2\Lab2\task1\bin\Debug\task1.exe.config
+C:\Users\Erkebulan\Desktop\pp2\Lab2\task1\bin\Debug\task1.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab2\task1\bin\Debug\task1.pdb
+C:\Users\Erkebulan\Desktop\pp2\Lab2\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab2\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab2\task1\obj\Debug\task1.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab2\task1\obj\Debug\task1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Erkebulan\Desktop\pp2\Lab3\FarManger\bin\Debug\FarManger.exe.config
+C:\Users\Erkebulan\Desktop\pp2\Lab3\FarManger\bin\Debug\FarManger.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab3\FarManger\bin\Debug\FarManger.pdb
+C:\Users\Erkebulan\Desktop\pp2\Lab3\FarManger\obj\Debug\FarManger.csprojAssemblyReference.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab3\FarManger\obj\Debug\FarManger.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab3\FarManger\obj\Debug\FarManger.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab3\FarManger\obj\Debug\FarManger.pdb
+C:\Users\Erkebulan\source\Programming\pp2\Lab3\FarManger\obj\Debug\FarManger.exe
+C:\Users\Erkebulan\source\Programming\pp2\Lab3\FarManger\obj\Debug\FarManger.pdb

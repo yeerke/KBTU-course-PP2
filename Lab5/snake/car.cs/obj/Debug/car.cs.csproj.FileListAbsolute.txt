@@ -1,0 +1,6 @@
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\car.cs\bin\Debug\car.cs.exe.config
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\car.cs\bin\Debug\car.cs.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\car.cs\bin\Debug\car.cs.pdb
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\car.cs\obj\Debug\car.cs.csproj.CoreCompileInputs.cache
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\car.cs\obj\Debug\car.cs.exe
+C:\Users\Erkebulan\Desktop\pp2\Lab5\snake\car.cs\obj\Debug\car.cs.pdb
